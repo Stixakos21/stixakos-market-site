@@ -1,2 +1,3 @@
-# stixakos-market-site
-StixakosMarket.com
+# Welcome to your Lovable project
+
+TODO: Document your project here
